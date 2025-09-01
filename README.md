@@ -24,6 +24,11 @@ git clone https://github.com/yourusername/LanzouAPI.git
 cd LanzouAPI
 ```
 
+### Python版本需要安装依赖
+```
+pip install flask requests beautifulsoup4 lxml
+```
+
 ### 启动服务
 #### Python版本
 ```bash
@@ -70,9 +75,6 @@ GET /?url={蓝奏云链接}&pwd={密码}
 ```
 http://localhost:8000/?url=https://www.lanzous.com/i42Xxebssfg&pwd=1234
 ```
-
-## 配置说明
-无需额外配置，开箱即用
 
 ## 项目结构
 ```
