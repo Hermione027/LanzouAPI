@@ -21,7 +21,7 @@
 ### 安装步骤
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/LanzouAPI.git
+git clone https://github.com/Hermione027/LanzouAPI
 cd LanzouAPI
 ```
 
