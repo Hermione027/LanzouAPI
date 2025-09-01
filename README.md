@@ -19,13 +19,14 @@
 - **PHP版本**: PHP 7.0+
 
 ### 安装步骤
+1. 克隆项目
 ```bash
 git clone https://github.com/yourusername/LanzouAPI.git
 cd LanzouAPI
 ```
 
-### Python版本需要安装依赖
-```
+2. Python版本需要安装依赖
+```bash
 pip install flask requests beautifulsoup4 lxml
 ```
 
